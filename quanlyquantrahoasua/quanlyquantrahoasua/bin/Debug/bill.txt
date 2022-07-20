@@ -1,0 +1,21 @@
+System.Windows.Forms.ListView+ListViewItemCollection
+ Discount: 10
+ finalTotalPrice: 52200
+System.Windows.Forms.ListView, Items.Count: 0
+ Discount: 0
+ finalTotalPrice: 105000
+System.Windows.Forms.ListView, Items.Count: 3, Items[0]: ListViewItem: {Dú dê nướng sữa}
+ Discount: 0
+ finalTotalPrice: 1074999
+System.Windows.Forms.ListView, Items.Count: 0
+ Discount: 10
+ finalTotalPrice: 967509
+System.Windows.Forms.ListView, Items.Count: 0
+ Discount: 0
+ finalTotalPrice: 1059999
+System.Windows.Forms.ListView, Items.Count: 0
+ Discount: 0
+ finalTotalPrice: 1059999
+System.Windows.Forms.ListView, Items.Count: 0
+ Discount: 0
+ finalTotalPrice: 1074999
